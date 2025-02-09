@@ -30,15 +30,15 @@
 
 <p align="left">
 <a href="https://twitter.com/devopsgurupro" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="devopsgurupro" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/wahid8709" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="DevOpsGuru09" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/devopsgurupro" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="devopsgurupro" height="50" width="50" /></a>
 <a href="https://instagram.com/devopsgurupro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devopsgurupro" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@devopsguru89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devopsguru89" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@devopsgurupro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devopsgurupro" height="40" width="40" /></a>
 
 </p>
 
 ## 🖇️ Let's connect!
 
-[![Connect with me on LinkedIn](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://linkedin.com/in/wahid8709)
+[![Connect with me on LinkedIn](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&style=sociallabel=Connect)](https://linkedin.com/in/devopsgurupro)
 
 ## 🔧 Technologies & Tools
 
@@ -48,9 +48,9 @@
 
 ## ⚡Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevOpsGuru09&show_icons=true&theme=radical&locale=en&layout=compact" alt="DevOpsGuru09" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devopsgurupr0&show_icons=true&theme=radical&locale=en&layout=compact" alt="devopsgurupr0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevOpsGuru09&show_icons=true&theme=radical&locale=en" alt="DevOpsGuru09" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devopsgurupr0&show_icons=true&theme=radical&locale=en" alt="devopsgurupr0" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=DevOpsGuru09&show_icons=true&theme=radical&locale=en" alt="DevOpsGuru09" /></p> -->
 
